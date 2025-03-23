@@ -7,3 +7,5 @@ CREATE TABLE Sales_Transactions (
     UnitCost DECIMAL(10,2),
     Total DECIMAL(10,2) 
 );
+
+SELECT * FROM Sales_transaction;
